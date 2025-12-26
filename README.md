@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paula Orjuela</h1>
-<h3 align="center">A passionate data scientist from Colombia</h3>
+### Hola, soy Paula 👋
+**Data Scientist en formación | Machine Learning | Python**
+
+¡Bienvenido a mi portafolio! Aquí encontrarás mis proyectos profesionales.
 
 - 🔭 I’m currently working on [InsigthPulse](https://github.com/Paula3228/Proyecto-Final-Version1)
 
