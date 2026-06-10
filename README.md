@@ -3,7 +3,7 @@
 
 ¡Bienvenido a mi portafolio! Aquí encontrarás mis proyectos profesionales.
 
-- 🔭 I’m currently working on https://github.com/Paula3228/Crypto-Asset-Analytics-Pipeline.git
+- 🔭 I’m currently working on https://github.com/Paula3228/QuantAlloc-CO.git
 
 - 📝 If you want to see my cv [https://flowcv.com/resume/qkanjts8dbb5](https://flowcv.com/resume/qkanjts8dbb5)
 
